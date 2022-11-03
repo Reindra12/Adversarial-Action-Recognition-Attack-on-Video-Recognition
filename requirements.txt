@@ -1,0 +1,6 @@
+decord
+ipython-genutils==0.2.0
+gluoncv
+imageio
+mxnet
+adversarial-robustness-toolbox
